@@ -36,5 +36,5 @@
 end
 
 
-
+-- RandomFire({Table with zones},start first fire,delta between fire,end all fires, minimumDurationFire , maximumDurationFire)
 RandomFire({"Fireplace1","Fireplace2","Fireplace3"},600,120,10000,600,3000)
